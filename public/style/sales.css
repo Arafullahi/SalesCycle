@@ -1,0 +1,36 @@
+.header { }
+.header h1 { font-size: 36px; font-weight: bold; margin: 15px 0px 5px; }
+.header ul { list-style: none; margin: 0px; }
+.header ul li { display: inline-block; }
+.header ul li a { padding: 5px 10px 5px 0px; font-size: 14px; }
+
+.footer { font-size: 13px; color: #CCC; }
+
+.clients { }
+.clients h1 { font-size: 18px; }
+.clients h1 small { font-size: 12px; font-weight: normal; color: #DDD; }
+.clients h1 small a { font-size: 12px; font-weight: normal; color: #CCC; }
+.clients ul { list-style: none; margin: 0px; }
+.clients ul li { margin: 4px 0px; }
+.clients ul li a { font-size: 14px; }
+.clients ul li small { color: #CCC; }
+.clients ul li small a { color: #CCC; font-size: 12px; }
+
+.input { padding: 2px 4px; margin-bottom: 4px; }
+.label { font-size: 14px; padding: 2px 0px; }
+.submit { font-size: 16px; border: 0px solid #CCC; background-color: #444; color: #FFF; margin-top: 10px; padding: 6px 9px; }
+
+.home { }
+.home h1 { font-size: 18px; }
+.home h1 small { font-size: 12px; font-weight: normal; color: #DDD; }
+.home h1 small a { font-size: 12px; font-weight: normal; color: #CCC; }
+.statusrow { border-bottom: 1px solid #DDD; padding: 6px 0px 4px; font-size: 14px; }
+.statusrow img { border-radius: 12px; }
+
+.error { color: red; font-size: 14px; font-weight: bold; }
+.home-light { color: #CCC; font-size: 12px; }
+.home-slant { color: #888; font-size: 13px; font-style: italic; }
+
+.updateform { display: none; border-bottom: 1px solid #DDD;}
+a.fakelink { color: #444; text-decoration: none; }
+a.fakelink2 { color: #CCC; text-decoration: none; }
